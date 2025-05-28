@@ -105,19 +105,7 @@ The model may begin to overfit the training data unless regularization is applie
 
 ```bash
 # 1. Clone the Repository
-git clone <your-repo-url>
-cd home_assignment_1
+git clone <Neuralnetworking-home-assignment1>
+open Neuralnetworking-home-assignment1/Vineeladasari-home-Assignment1.ipynb
 
-# 2. Install Dependencies
-pip install -r requirements.txt
-
-# 3. Run the Python Scripts
-python tensor_ops.py
-python loss_functions.py
-python mnist_tensorboard.py
-
-# 4. Launch TensorBoard
-tensorboard --logdir=logs/fit
-
-# After launching, open your browser and go to:
-# http://localhost:6006
+# 2. execute each cell
